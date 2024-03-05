@@ -1,6 +1,3 @@
-Absolutely, here's a revised version with "Blood Donation Management System":
-
----
 
 # Blood Donation Management System: Bridging Lives, One Drop at a Time 🩸
 
